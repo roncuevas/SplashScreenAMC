@@ -24,6 +24,6 @@ let package = Package(
         .target(
             name: "SplashScreenAMC",
             dependencies: [.product(name: "Lottie", package: "lottie-spm")],
-            path: "Sources/SplashScreenAMC"),
+            path: "SplashScreenAMC/Sources/SplashScreenAMC"),
     ]
 )
